@@ -1,1 +1,5 @@
-# amazon.github.io
+Amazon clone using
+  HTML
+  Javascript
+  Css
+  
